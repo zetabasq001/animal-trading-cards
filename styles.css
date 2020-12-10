@@ -1,0 +1,66 @@
+/*TODO-- add your CSS here */
+body{
+    background-color: lightgray;
+}
+
+.container{
+    border-radius: 5pt;
+    border: 5px solid whitesmoke;
+    width: 420px;
+    height: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: brown;
+
+}
+
+h3{
+    font: small-caps 20pt Georgia, serif;
+    color: whitesmoke;
+    text-align: center;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+img{
+    border-radius: 10px;
+    width: 300px;
+    height: 200px;
+    border: 3px solid darkred;
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    background-color: beige;
+    box-shadow: 10px 10px black
+}
+
+.subcontainer{
+    border-radius: 10px;
+    width: 350px;
+    height: 100%;
+    border: 3px solid beige;
+    color: white;
+    padding: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px black;
+}
+
+.facts{
+    font: italic small-caps 14pt Arial, sans-serif;
+}
+
+li{
+    list-style: none;
+    font: 10pt Courier, monospace;
+}
+
+li span{
+    color: black;
+    font: small-caps bold 10pt "Gill Sans", sans-serif;
+}
+
+.description{
+    font: small-caps 14pt Arial, sans-serif;
+}
+
